@@ -98,3 +98,9 @@ When the user enters the email address and password, data validation must be per
 - **Password:** `^(?=.*[a-z])(?=.*[A-Z])(?=.*\d)(?=.*[!@#$%^&*()_+={}\[\]|;:'",.<>?/~`]).{8,}$`
 
 If any of the validations fail, an appropriate message should be presented in the Error Drop Down Box view (e.g., "Invalid Email Address").
+
+
+
+# Colors Used
+White: (red: 255/255, green: 255/255, blue: 255/255, alpha: 1.0)
+Red: (red: 164/255, green: 38/255, blue: 51/255, alpha: 1.0)
