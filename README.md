@@ -102,10 +102,10 @@ If any of the validations fail, an appropriate message should be presented in th
 
 
 # Colors Used
-```json
+```
     {
         White: (red: 255/255, green: 255/255, blue: 255/255, alpha: 1.0),
         Red: (red: 164/255, green: 38/255, blue: 51/255, alpha: 1.0)
     }
-    ```
+```
 
